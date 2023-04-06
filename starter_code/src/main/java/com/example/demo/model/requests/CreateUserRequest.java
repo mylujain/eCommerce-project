@@ -36,5 +36,4 @@ public class CreateUserRequest {
 	public void setConfirmPassword(String confirmPassword) {
 		this.confirmPassword = confirmPassword;
 	}
-
 }
